@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Ridma Pawan and I'm a Front-End Developer</h2>
+<h2 align="left">  Hi 👋! My name is Ridma Pawan and I'm a Front-End Developer, from Sri Lanka 🇱🇰 </h2>
 
 
-###
+
 
 ```diff
 + ███████╗██╗  ██╗██╗   ██╗██╗     ██╗███╗   ███╗██╗████████╗███████╗
@@ -12,9 +12,10 @@
 + ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚══════╝
 ```
 
-###
+### Hi, I'm `Ridma` I'm learning to be a `Frontend dev`
+### I love designing and building new things that are useful for everyone
 
-<div align="center">
+<div align="left">
   🎨 Passionate about design, animation & 3D
   <br>
   ✨ Building beautiful, useful web experiences
@@ -49,5 +50,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/SkyLimitzDevz/SkyLimitzDevz/output/snake.svg" alt="Snake animation" />
