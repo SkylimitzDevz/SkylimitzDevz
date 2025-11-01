@@ -1,59 +1,75 @@
-<!-- Cyberpunk Profile README for SkylimitzDevz -->
+<div align="center">
 
-<h1 align="center" style="color:#9d4edd;">
-  <img src="https://img.icons8.com/fluency/64/000000/hacker.png" width="48"/>
-  <br>
-  Hi, I'm <span style="color:#9d4edd;">SkylimitzDevz</span> 👾
-</h1>
-
-<p align="center" style="color:#c9a8ff; font-size:1.2em;">
-  🚀 Front-End Developer • Learning & Building cool stuff<br>
-  <span style="color:#9d4edd;">HTML</span> • <span style="color:#9d4edd;">CSS</span> • <span style="color:#9d4edd;">JavaScript</span>
-</p>
-
----
-
-## 🪐 About Me
-
-```diff
-- Passionate about web design, interactivity, and futuristic UI/UX!
-- Always learning, always building. Currently focused on front-end tech.
-- Lover of all things dark mode, neon, and cyberpunk aesthetic.
+```
+██████╗ ██╗██████╗ ███╗   ███╗ █████╗ 
+██╔══██╗██║██╔══██╗████╗ ████║██╔══██╗
+██████╔╝██║██║  ██║██╔████╔██║███████║
+██╔══██╗██║██║  ██║██║╚██╔╝██║██╔══██║
+██║  ██║██║██████╔╝██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
----
+### 👋 Welcome to my GitHub Profile!
 
-## ⚡ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-9d4edd?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-6d28d9?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 👾 GitHub Stats
+## 🌟 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkylimitzDevz&show_icons=true&theme=dark&title_color=9d4edd&icon_color=7c3aed"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SkylimitzDevz&theme=dark&background=000000&ring=9d4edd&fire=9d4edd&currStreakNum=7c3aed"/>
-</p>
+I'm **RIDMA**, a passionate **Front-End Developer** on a journey to master the art of building beautiful and interactive web experiences. Currently learning and exploring the fundamentals of web development, one line of code at a time! 🚀
 
 ---
 
-## 🦾 Connect with Me
+## 💻 Tech Stack
 
-<p align="center">
-  <a href="https://github.com/SkylimitzDevz">
-    <img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Add your socials here! -->
-</p>
+<div align="center">
+
+### Currently Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 ---
 
-<p align="center" style="color:#9d4edd;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9D4EDD&background=000000&center=true&vCenter=true&width=435&lines=Cyberpunk+Front-End+Dev;+Always+Learning+%26+Building" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIDMA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDMA&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF)
+
+</div>
+
+---
+
+## 🌱 Currently Focused On
+
+- 🎨 Building responsive and accessible web interfaces
+- 📚 Mastering **HTML5** semantics and best practices
+- 🎭 Exploring **CSS3** animations and modern layouts
+- ⚡ Learning **JavaScript** fundamentals and DOM manipulation
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIDMA)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=RIDMA&color=blueviolet&style=for-the-badge)
+
+</div>
